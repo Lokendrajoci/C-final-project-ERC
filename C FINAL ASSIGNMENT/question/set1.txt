@@ -1,0 +1,699 @@
+1. All of the following possess complete d shells except [Given: Atomic No. Cu= 29, Zn = 30, Ga = 31, Ag = 47] 
+
+A)Ag+ 
+B)Cu2+ 
+C)Ga3+ 
+D)Zn2+
+
+2. The emission spectrum of hydrogen in the visible region consists of 
+
+A)a continuous band of light 
+B)a series of equally spaced lines 
+C)a series of lines that are closer at low energies 
+D)a series of lines that are closer at high energies 
+
+3. An air bubble of volume 1ml is at the bottom of river at 27 degree C and at 10 atm pressure.Calculate its volume at the top of the river if temperature at the top is 27 degree C. 
+
+A)5 ml 
+B)10 ml 
+C)15 ml 
+D)20 ml 
+
+4. Ice is in equilibrium with water at certain temperature and pressure. If applied pressure over the system is increased then : 
+
+A)Amount of water at equilibrium will increase 
+B)Amount of ice at equilibrium will increase 
+C)Amount of water at equilibrium remain unchanged 
+D)Melting point of the ice will increase 
+
+5. Which of following aqueous mixture of CH3COOH and CH3COONa will have maximum buffer capacity? 
+
+A)[CH3 COOH] =1M, [CH3COONa] = 10-3 M 
+B)[CH3COOH] = 0.1M, [CH3COONa] = 10-5 M 
+C)[CH3COOH] = 0.1M, [CH3COONa] = 0.1M 
+D)[CH3COOH] = 0.001M, [CH3COONa] = 0.1M 
+
+6. The material used in photoelectric cells contains 
+
+A)Cs 
+B)Si 
+C)Sn 
+D)Mg 
+
+7. In warfare smoke screens are prepared from 
+
+A)PH3 
+B)CaC2 
+C)P2O5 
+D)COCl2
+
+8. Leaching method is used to concentrate the ores of:- 
+
+A)Gold 
+B)Silver 
+C)Aluminium 
+D)All of these 
+
+9. Which of the following decolourises alkaline KMnO4 solution 
+
+A)C3H8 
+B)C2H4 
+C)CH4 
+D)CCl4
+
+10. A Grignard's reagent may be obtained when magnesium reacts with: 
+
+A)Diethyl ether 
+B)Methyl amine 
+C)Ethylene 
+D)Ethyl iodide 
+
+11. Benzene reacts with CH3COCl in the presece of anhyd. AlCl3 to give 
+
+A)C6H5CH3 
+B)C6H5Cl 
+C)C6H5O2Cl 
+D)C6H5COCH3
+
+12. A metallic solid sphere is placed in a uniform electric field. The lines of force follow the path(s) shown in figure as 
+
+A)1 
+B)2 
+C)3 
+D)4 
+
+13. The time period of a satellite in a circular orbit around the earth is T. The kinetic energy of the satellite is proportional to T-n . Then, n is equal to: 
+
+A)1/2
+B)2/3
+C)4/3
+D)3/2
+
+14. Two water pipes of diameters 2 cm and 4 cm are connected in series. The velocity of flow of water in the pipe of 2 cm diameter is 
+
+A)4 times that in the other pipe 
+B)1/4 times that in the other pipe 
+C)2 times that in the other pipe 
+D)1/2 times that in the other pipe 
+
+15. A copper ball of radius 'r' travels with a uniform speed 'v' in a viscous fluid. If the ball is changed with another ball of radius '2r', then new uniform speed will be: 
+
+A)v 
+B)2v 
+C)4v 
+D)8v 
+
+16. Two metal rods of the same length and area of cross–section are fixed ends to end between rigid supports. The materials of the rods have Young modulus Y1 and Y2, and coefficients of linearexpansion alpha1 and alpha2. When rods are cooled the junction between the rods does not shift if: 
+
+A)Y1 alpha1 = Y2 alpha2 
+B)Y1 alpha2 = Y2 alpha1 
+C)Y1 alpha1^2= Y2 alpha2^2
+D)Y1^2 alpha1 = Y2^2 alpha2
+
+17. If 97.52 is divided by 2.54, the correct result in terms of three significant figures is
+ 
+A)38.4 
+B)38.3937 
+C)38.394 
+D)38.39 
+
+18. In a process the density of a gas remains constant. If the temperature is doubled, then the change in the pressure will be: 
+
+A)100 % increase 
+B)200 % increase 
+C)50 % decrease 
+D)25 % decrease 
+
+19. A faulty thermometer reads freezing point and boiling point of water as -5 degreeC and 95 degreeC respectively. What is the correct value of temperature as it reads 60 degreeC on faulty thermometer? 
+
+A)60 degreeC 
+B)65 degreeC 
+C)64 degreeC 
+D)62 degreeC 
+
+20. The distance between plates of a parallel plate capacitor is 'd'. Another thick metal plate of thickness d/2 and area same as that of plates is so placed between the plates, that it does not touch the plates. The capacity of the resultant capaciotr: 
+
+A)remain same 
+B)becomes double 
+C)becomes half 
+D)becomes one fourth 
+
+21. A coil having 500 square loops each of side 10 cm is placed normal to a magnetic field which increased at a rate of 1.0 T/sec. The induced e.m.f. (in volt) is: 
+
+A)0.1 
+B)0.5 
+C)1.0 
+D)5.0 
+
+22. A current passes through a wire of non-uniform cross section. Which of the following quantities are independent of the cross-section? 
+
+A)The charge crossing in a given time interval 
+B)Drift speed 
+C)Current density 
+D)Area
+
+23. An object is immersed in a fluid. In order that the object becomes invisible, it should: 
+
+A)behave as a perfect reflection 
+B)absorb all light falling on it 
+C)have refractive index one 
+D)have refractive index exactly matching with that of the surrounding fluid 
+
+24. The energy in the phenomenon of interference: 
+
+A)is conserved, gets redistributed 
+B)is equal at every point 
+C)is destroyed in regions of dark fringes 
+D)is created at the place of bright fringes
+
+25. A battery of internal resistance 2 ohm is connected to a variable resistor whose value can vary from 4 ohm to 10 ohm. The resistance is initially set at 4 ohm. If the resistance is now increased then - 
+
+A)power consumed by it will decrease 
+B)power consumed by it will increase 
+C)power consumed by it may increase or may decrease 
+D)power consumed will first increase then decrease 
+
+26. The stopping potential necessary to reduce the photoelectric current to zero 
+
+A)is directly proportional to wavelength of incident light. 
+B)uniformly increases with the wavelength of incident light. 
+C)directly proportional to frequency of incident light. 
+D)uniformly increases with the frequency of incident light. 
+
+27. The forbidden energy gap in Ge is: 
+
+A)0.7 V 
+B)0.07 eV 
+C)7 eV 
+D)0.7 eV 
+
+28. Two mutually perpendicular conductors carrying currents I1 and I2 lie in one plane. Locus of the point at which the magnetic induction is zero, is a 
+
+A)circle with centre as the point of intersection of the conductor 
+B)parabola with vertex as the point of intersection of the conductors 
+C)straight line passing through the point of intersection of the conductors 
+D)rectangular hyperbola
+
+29. Two sets A = {-2, 2} and B = {x : x^2= 4} are 
+
+A)disjoint sets 
+B)not comparable 
+C)proper subsets of one another 
+D)equal sets 
+
+30. The cosine of angle between the vectors ( i + j + k) and ( i - j - k) is 
+
+A)-1/3
+B)1/3
+C)1 
+D)0 
+
+31. lim x --> 0 (|x|/x)= 
+
+A)1 
+B)0 
+C)-1 
+D)does not exist 
+
+32. If y = sinh-1x + cosh-1x, then dy/dx = 
+
+A)1/(sqrt (1 + x^2)) + 1/(sqrt (x^2 - 1))
+B)sinh2x 
+C)0
+D)-2(sqrt (x^2-1))
+ 
+33. The tangent to the curve x^2+ y^2 - 2x - 3 = 0 is parallel to x-axis of the point 
+
+A)(1, 0) 
+B)(1, +-2) 
+C)(2, 3) 
+D)(4, -2) 
+
+34. The minimum value of x^2+ 8x + 17 is 
+
+A)-1 
+B)12 
+C)0 
+D)1
+
+35. cot-1 tan pie/7 = 
+
+A)5 pie/14 
+B)3 pie/14 
+C)pie/14 
+D)8 pie/14
+
+36. If A is a square matrix, then A - A^T is a 
+
+A)unit matrix 
+B)symmetric matrix 
+C)skew symmetric matrix 
+D)zero matrix 
+
+37. Inverse of a function exists if the function is
+
+A)injective 
+B)surjective 
+C)bijective 
+D)into 
+
+38. Which of the following cannot be the direction cosines of a line? 
+
+A)(12/13, -4/13, 3/13)
+B)(1/sqrt(3), 1/sqrt(3), -1/sqrt (3)
+C)(6/7, 2/7, 3/7)
+D)(1, -1, 1)
+
+39. The foot of the perpendicular from (alpha, beta, gamma) on y-axis is 
+
+A)(alpha, 0, 0) 
+B)(0, beta, 0) 
+C)(0, 0, gamma) 
+D)(0, 0, 0) 
+
+40. If y = sin(1/x), then dy/dx = 
+
+A)1/x cos(1/x)
+B)cos(1/x)
+C)1/x^2 cos(1/x)
+D)- 1/x^2 cos(1/x)
+
+41. integrate (x+1/x)dx=
+
+A)x^2 + log(x)+c 
+B)x^2/2 + 1/2log(x)+c
+C)x^2/2 + log(x)+c
+D)x^2 + 1/2log(x)+c
+
+42. The area of the circle x^2+ y^2 = 2ax is 
+
+A)pie a^2
+B)2 pie a^2
+C)4 pie a^2
+D)1/2 pie a^2
+
+43. The equation x = t/4 and y = t^2/4 represents 
+
+A)a circle 
+B)a parabola 
+C)a hyperbola 
+D)an ellipse 
+
+44. If a = 3 cm, b = 5 cm and c = 7 cm in triangle ABC, then the triangle is 
+
+A)rt. angled triangle
+B)equilateral triangle
+C)acute angled triangle 
+D)obtuse angled triangle 
+
+45. The period of f(x) = tan3x + cos4x is 
+
+A)pie /2
+B)pie 
+C)pie /3
+D)2 pie 
+
+46. If A, G, H denote respectively the A.M., G.M. and H.M. between two unequal positive integers, then
+
+A)G^2= A/G
+B)H^2 = G/A
+C)A^2= G/H
+D)A = G^2/H
+
+47. The polar form of (1 - i) is 
+
+A)2 (cos 135 degree + i sin 135 degree) 
+B)4 (cos 150 degree + i sin 150 degree) 
+C)2 [cos(-45 degree) + i sin (-45 degree)] 
+D)2 (cos 45 degree + i sin 45 degree) 
+
+48. The middle term in the expansion of (y/x -x/y)^10 is
+
+A)10c4(y/x)^2
+B)10c5(y^2 / x^2) 
+C)-125 x^2y^4
+D)-252
+
+49. The word 'deteriorate' has its primary stress on ... syllable. 
+
+A)4th 
+B)3rd 
+C)2nd 
+D)1st
+
+50. The correct phonemic transcription of the word 'restaurant' is 
+
+A)/restjuːrent/
+B)/restərənt/ 
+C)/restjuːrənt/ 
+D)/restrɒnənt/ 
+
+51. We hope that we shall win the match. 
+
+A)The match is hoped to be won. 
+B)Winning the match is hoped by us. 
+C)Match winning is our hope. 
+D)It is hoped that the match will be won by us.
+
+52. The photographs in the papers bore no....at all to the original. 
+
+A)nearness 
+B)comparison 
+C)identity 
+D)resemblance
+ 
+53. An abnormal dread of being shut up in a small room:
+ 
+A)claustrophobia 
+B)podophobia 
+C)zoophobia 
+D)none of these 
+
+54. I absolve you ...... all blames. 
+
+A)for 
+B)into 
+C)of 
+D)with
+ 
+55. ... book is expensive in the market 
+
+A)A 
+B)An 
+C)The 
+D)None
+
+56. She ………. you if she were here. 
+
+A)would have told 
+B)told 
+C)would tell 
+D)had told 
+
+57. The investigating officers went... several files after raiding the place. 
+
+A)into 
+B)between 
+C)for 
+D)through 
+
+58. None is available,......? 
+
+A)are they
+B)do they 
+C)didn't they 
+D)did they 
+
+59. One can..... these skills by one's own efforts. 
+
+A)perform 
+B)collect 
+C)frame
+D)prepare
+ 
+60. Synonym of THRIVE 
+
+A)survive 
+B)revive 
+C)entertain 
+D)prosper
+
+61. CuSO4 solution is treated separately with KCl and KI. In which case Cu2+ will be reduced to Cu+
+
+A)KCl 
+B)KI 
+C)Both can reduce 
+D)None can reduce
+ 
+62. A hydrocarbon X adds on one mole of hydrogen to give another hydrocarbon and decolorized bromine water. X reacts with KMnO4 in presence of acid to give two moles of the same carboxylic acid. The structure of X is 
+
+A)CH2 = CH - CH2 - CH2 - CH3 
+B)CH3 - CH2 - CH2 - CH = CH - CH3 
+C)CH3 - CH2 - CH = CH - CH2 - CH3 
+D)CH3 - CH = CH - CH2 - CH2 - CH3 
+
+63. A pale yellow precipitate and a gas with pungent odour are formed on warming dilute HCl with an aqueous solution containing 
+
+A)Sulphate ion 
+B)Sulphide ion 
+C)Thiosulphate ion 
+D)Sulphite ion 
+
+64. 2.76 g of silver carbonate on being strongly heated yields a residue weighing: 
+
+A)2.16 g 
+B)2.48 g 
+C)2.32 g 
+D)2.64 g 
+
+65. The Ionic product of water at TK is 10–16. The pOH of the neutral solution at this temperature is 
+
+A)7 
+B)16 
+C)4 
+D)8 
+
+66. 100ml of 1NH2SO4 is required to dissolve 0.9 g of a metal. The equivalent weight of the metal is 
+
+A)9 
+B)5.4 
+C)18.5
+D)37.5
+
+67. Which of the following is not permissible? 
+
+A)n = 4, l = 3, m = 0 
+B)n = 4, l = 2, m = 1 
+C)n = 4, l = 4, m = 1 
+D)n = 4, l = 0, m = 0
+
+68. A ball is thrown vertically upwards with a speed of 10 m/s from the top of a tower 200 m high and another is thrown vertically downwards with the same speed simultaneously. The time difference between them in reaching the ground (g = 10m/s^2) is x seconds. The value of x is 
+
+A)1 
+B)2 
+C)3 
+D)4 
+
+69. Calculate the force required to separate the glass plate of area 10-2 m^2 with a film of water 0.05 mm thick [surface tension of water is 70 × 10-3 N/m] 
+
+A)25 N 
+B)20 N 
+C)14 N 
+D)28 N 
+
+70. A block is placed over a plank. The coefficient of friction between the block and the plank is myu =0.2. Initially both are at rest, suddenly the plank starts moving with acceleration a0 = 4 m/s^2. The displacement of the block in 1s is (g=10 m/s^2) 
+
+A)1 m relative to ground 
+B)1 m relative to plank 
+C)zero relative to plank 
+D)2 m relative to ground 
+
+71. The frequency of a simple pendulum is n oscillations per minute while that of another is (n + 1) oscillations per minute. The ratio of length of first pendulum to the length of second is: 
+
+A)n/(n + 1) 
+B)(n+1/n)^2
+C)(n/n+1)^2
+D)(n + 1/n)^2
+
+72. Two cylinders A and B fitted with piston contain the equal amount of an ideal diatomic gas at 300K. The piston of A is free to move, while that of B is held fixed. The same amount of heat is given to the gas in each cylinder. If the rise in temperature of the gas in A is 30K, then the rise in the temperature of the gas in B is:
+ 
+A)30 K 
+B)10 K 
+C)50 K 
+D)42 K 
+
+73. A whistle revolves in a circle with angular speed omga(w)= 20 rad/s using a string of length 50 cm. If the frequency of sound from the whistle is 385 Hz,then what is the minimum frequency heard by an observer which is far away from the centre:– (vsound = 340 m/s) 
+
+A)385 Hz 
+B)374 Hz 
+C)394 Hz 
+D)333 Hz 
+
+74. A man running uniformly at 8 m/s is 16 m behind a bus when it starts accelerating at 2 m/s^2. Time taken by him to catch the bus is 
+
+A)2s 
+B)3s 
+C)4s 
+D)5s 
+
+75. A lead bullet strikes with velocity 500 m/s and fall dead. If 40% of energy is used to heat the bullet then rise in temperature will be (sp. heat capacity of lead = 0.03 cal/g degree C) 
+
+A)125 degreeC 
+B)286 degreeC
+C)396 degreeC 
+D)493 degreeC 
+
+76. Intensity of gamma-radiation fall to one eight of it's value after passing through 27 mm of lead. The thickness of lead to reduce intensity to half is 
+
+A)24 mm 
+B)18 mm 
+C)12 mm 
+D)9 mm 
+
+77. A ray of light from a rarer medium strike a denser medium. The angle of reflection is r and that of refraction is r. The reflected and refracted rays make an angle of 90 degree with each other. The critical angle will be: 
+
+A)sin-1 (tanr) 
+B)tan-1 (sinr) 
+C)sin-1 (cotr) 
+D)tan-1 (cotr) 
+
+78. How many maxima can be obtained on the screen if wavelength of light used is 200 nm and to illuminate a slit of width 700 nm 
+
+A)12 
+B)7 
+C)18 
+D)None of these
+
+79. When a certain metallic surface is illuminated with monochromatic light of wavelength lamda the stopping potential for photo electric current is 6V0. When the same surface is illuminated with light of wavelength 2 lamda, the stopping potential is 2V0. The threshold wavelength of this surface for photoelectric effect is 
+
+A)6 lamda 
+B)(4/3) lamda
+C)4 lamda 
+D)8 lamda
+
+80. In a n-p-n transistor circuit, the collector current is 10 mA. If 90% of the electrons emitted reach the collector, the emitter current (IE) and base current (IB) are given by 
+
+A)IE = 1mA; IB = 11 mA 
+B)IE = 11 mA ; IB = 1 mA 
+C)IE = 10 mA; IB = 9 mA 
+D)IE = 9 mA ; IB = 10 mA 
+
+81. When a hydrogen atom, initially at rest emits a photon resulting in transition n = 5 to n = 1, its recoil speed is about 
+
+A)10-4 m/s 
+B)2 × 10-2 m/s 
+C)4.2 m/s 
+D)3.8 × 10-2 m/s
+
+82. The range of the function f(x) = |x - 2|/(x - 2) is 
+
+A)R - {0} 
+B)R - {2} 
+C)R - {0, 2} 
+D){-1, 1} 
+
+83. If a, b, c are any three unit vectors with the relation a+ b+ c = 0, what is the angle between b and c?
+ 
+A)pie/3
+B)2 pie /3
+C)3 pie /4
+D)pie/6
+
+84. Integrate 1/cos x sqrt(cos 2x) = 
+
+A)tan-1(sec x) + c 
+B)cos(sin-1x) + c 
+C)cos(tan-1x) + c 
+D)sin-1(tan x) + c 
+
+85. Integrate |x| dx is equal to 
+
+A)|x| + C 
+B)|x|^2/2+ C 
+C)x^2/2+ C 
+D)x|x|^2+ C 
+
+86. The area bounded by the curve y = x^2, x-axis and the line x = 2^(1/3) is divided into two equal areas by the line x = k then the value of k is 
+
+A)0 
+B)1 
+C)2 
+D)3 
+
+87. If 3tan(θ – 15 degree) = tan(θ + 15 degree), then θ 
+
+A)2n pie 
+B)n pie +- pie/3
+C)2n pie +- pie/4
+D)n pie + pie/4
+
+88. In a triangle ABC, cosA/2 = sqrt( b + c/2c) , then 
+
+A)a^2+ b^2= c^2
+B)b^2+ c^2= a^2
+C)c^2+ a^2= b^2
+D)b + c = c + a 
+
+89. If |x| < 1, y = x + x^2+ x^3+ ... +infinity then x = 
+
+A)(y + 1) 
+B)y/1 + y 
+C)1 - y/2y 
+D)y(y + 1)/4
+
+90. If the roots of the equation x^2+ ax + c = 0 differ by 1, then the condition is 
+
+A)b^2= ac + 1 
+B)a^2= 4c + 1 
+C)c^2= 4ab 
+D)a^2= bc + 2 
+
+91. A box contains 2 white balls, 3 black balls and 4 red balls. The number of ways in which 3 balls can be brawn from the box so that of least one of the balls is black is 
+
+A)9C3 
+B)9C3 – 6C3 
+C)6C3 
+D)9C3 – 1 
+
+92. (1 - i)^3/1 - i3 =
+ 
+A)1 
+B)-2 
+C)-i 
+D)2i 
+
+93. If 2p is length of perpendicular from origin to line x/a+ y/b= 1, then 
+
+A)a^2, 8p^2, b^2 are in A.P. 
+B)a^2, 8p^2, b^2 are in G.P. 
+C)a^2, 8p^2, b^2 are in H.P. 
+D)None of these 
+
+94. If a vertex of a triangle is (1, 1) and the middle point of sides through it are (-2, 3) and (5, 2) then the centroid of the triangle are 
+
+A)(5/3‚ 3)
+B)(–5/3‚ 3) 
+C)(5/3‚ - 3) 
+D)(-5/3‚ -3)
+
+95. The two circles x^2+ y^2– cx = 0 and x^2+ y^2= 4 touch each other if 
+
+A)|c| = 4 
+B)c = 2 
+C)|c| = 8 
+D)|c| = 16 
+
+96. The length of the intercept on y-axis cut off by the parabola y^2- 5y = 3x - 6 is 
+
+A)1 
+B)2 
+C)3 
+D)4
+
+97. Turning themselves into mischievous and sometimes dangerous mobs' is closest in meaning to 
+
+A)becoming a crowd that may act violently and cause damage 
+B)changing into wild and ferocious beasts 
+C)losing the power of thinking and indulging in foolish behaviour 
+D)changing into a bunch of insolent and aggressive children 
+
+98. The writer feels that student mobs should be treated 
+
+A)more leniently than the mobs of industrial workers 
+B)at par with any other mob 
+C)more harshly than workers' mobs 
+D) with contempt 
+
+99. If the students behave stupidly 
+
+A)they have no right to receive education in institutions maintained by public fund 
+B)they should be sent to jails 
+C)they should be demoted to lower classes 
+D)their parents should be penalized 
+
+100. Students in poorer countries should show a greater sense of responsibility because 
+
+A)they have to compete with students in developed countries 
+B)their education is paid for by poorer people 
+C)they are the future leaders of the country 
+D)they have to uphold the ancient traditions of the country

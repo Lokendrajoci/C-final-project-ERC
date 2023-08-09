@@ -1,0 +1,1000 @@
+1. All of the following possess complete d shells except [Given: Atomic No. Cu= 29, Zn = 30, Ga = 31, Ag = 47] 
+
+
+You Entered : A)Ag+ 
+
+Correct answer is : B)Cu2+ 
+
+__________________________________________
+__________________________________________
+
+2. The emission spectrum of hydrogen in the visible region consists of 
+
+
+You Entered : A)a continuous band of light 
+
+Correct answer is : D)a series of lines that are closer at high energies 
+
+__________________________________________
+__________________________________________
+
+3. An air bubble of volume 1ml is at the bottom of river at 27 degree C and at 10 atm pressure.Calculate its volume at the top of the river if temperature at the top is 27 degree C. 
+
+
+You Entered : A)5 ml 
+
+Correct answer is : B)10 ml 
+
+__________________________________________
+__________________________________________
+
+4. Ice is in equilibrium with water at certain temperature and pressure. If applied pressure over the system is increased then : 
+
+
+You Entered Correct answer : A)Amount of water at equilibrium will increase 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+5. Which of following aqueous mixture of CH3COOH and CH3COONa will have maximum buffer capacity? 
+
+
+You Entered : A)[CH3 COOH] =1M, [CH3COONa] = 10-3 M 
+
+Correct answer is : C)[CH3COOH] = 0.1M, [CH3COONa] = 0.1M 
+
+__________________________________________
+__________________________________________
+
+6. The material used in photoelectric cells contains 
+
+
+You Entered Correct answer : A)Cs 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+7. In warfare smoke screens are prepared from 
+
+
+You Entered Correct answer : A)PH3 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+8. Leaching method is used to concentrate the ores of:- 
+
+
+You Entered : A)Gold 
+
+Correct answer is : D)All of these 
+
+__________________________________________
+__________________________________________
+
+9. Which of the following decolourises alkaline KMnO4 solution 
+
+
+You Entered : A)C3H8 
+
+Correct answer is : B)C2H4 
+
+__________________________________________
+__________________________________________
+
+10. A Grignard's reagent may be obtained when magnesium reacts with: 
+
+
+You Entered : A)Diethyl ether 
+
+Correct answer is : D)Ethyl iodide 
+
+__________________________________________
+__________________________________________
+
+11. Benzene reacts with CH3COCl in the presece of anhyd. AlCl3 to give 
+
+
+You Entered : A)C6H5CH3 
+
+Correct answer is : D)C6H5COCH3
+
+__________________________________________
+__________________________________________
+
+12. A metallic solid sphere is placed in a uniform electric field. The lines of force follow the path(s) shown in figure as 
+
+
+You Entered : A)1 
+
+Correct answer is : D)4 
+
+__________________________________________
+__________________________________________
+
+13. The time period of a satellite in a circular orbit around the earth is T. The kinetic energy of the satellite is proportional to T-n . Then, n is equal to: 
+
+
+You Entered : A)1/2
+
+Correct answer is : B)2/3
+
+__________________________________________
+__________________________________________
+
+14. Two water pipes of diameters 2 cm and 4 cm are connected in series. The velocity of flow of water in the pipe of 2 cm diameter is 
+
+
+You Entered Correct answer : A)4 times that in the other pipe 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+15. A copper ball of radius 'r' travels with a uniform speed 'v' in a viscous fluid. If the ball is changed with another ball of radius '2r', then new uniform speed will be: 
+
+
+You Entered : A)v 
+
+Correct answer is : C)4v 
+
+__________________________________________
+__________________________________________
+
+16. Two metal rods of the same length and area of cross–section are fixed ends to end between rigid supports. The materials of the rods have Young modulus Y1 and Y2, and coefficients of linearexpansion alpha1 and alpha2. When rods are cooled the junction between the rods does not shift if: 
+
+
+You Entered Correct answer : A)Y1 alpha1 = Y2 alpha2 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+17. If 97.52 is divided by 2.54, the correct result in terms of three significant figures is
+
+
+You Entered Correct answer : A)38.4 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+18. In a process the density of a gas remains constant. If the temperature is doubled, then the change in the pressure will be: 
+
+
+You Entered Correct answer : A)100 % increase 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+19. A faulty thermometer reads freezing point and boiling point of water as -5 degreeC and 95 degreeC respectively. What is the correct value of temperature as it reads 60 degreeC on faulty thermometer? 
+
+
+You Entered : A)60 degreeC 
+
+Correct answer is : B)65 degreeC 
+
+__________________________________________
+__________________________________________
+
+20. The distance between plates of a parallel plate capacitor is 'd'. Another thick metal plate of thickness d/2 and area same as that of plates is so placed between the plates, that it does not touch the plates. The capacity of the resultant capaciotr: 
+
+
+You Entered : A)remain same 
+
+Correct answer is : B)becomes double 
+
+__________________________________________
+__________________________________________
+
+21. A coil having 500 square loops each of side 10 cm is placed normal to a magnetic field which increased at a rate of 1.0 T/sec. The induced e.m.f. (in volt) is: 
+
+
+You Entered : A)0.1 
+
+Correct answer is : D)5.0 
+
+__________________________________________
+__________________________________________
+
+22. A current passes through a wire of non-uniform cross section. Which of the following quantities are independent of the cross-section? 
+
+
+You Entered Correct answer : A)The charge crossing in a given time interval 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+23. An object is immersed in a fluid. In order that the object becomes invisible, it should: 
+
+
+You Entered : A)behave as a perfect reflection 
+
+Correct answer is : D)have refractive index exactly matching with that of the surrounding fluid 
+
+__________________________________________
+__________________________________________
+
+24. The energy in the phenomenon of interference: 
+
+
+You Entered Correct answer : A)is conserved, gets redistributed 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+25. A battery of internal resistance 2 ohm is connected to a variable resistor whose value can vary from 4 ohm to 10 ohm. The resistance is initially set at 4 ohm. If the resistance is now increased then - 
+
+
+You Entered Correct answer : A)power consumed by it will decrease 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+26. The stopping potential necessary to reduce the photoelectric current to zero 
+
+
+You Entered : A)is directly proportional to wavelength of incident light. 
+
+Correct answer is : D)uniformly increases with the frequency of incident light. 
+
+__________________________________________
+__________________________________________
+
+27. The forbidden energy gap in Ge is: 
+
+
+You Entered : A)0.7 V 
+
+Correct answer is : D)0.7 eV 
+
+__________________________________________
+__________________________________________
+
+28. Two mutually perpendicular conductors carrying currents I1 and I2 lie in one plane. Locus of the point at which the magnetic induction is zero, is a 
+
+
+You Entered : A)circle with centre as the point of intersection of the conductor 
+
+Correct answer is : C)straight line passing through the point of intersection of the conductors 
+
+__________________________________________
+__________________________________________
+
+29. Two sets A = {-2, 2} and B = {x : x^2= 4} are 
+
+
+You Entered : A)disjoint sets 
+
+Correct answer is : D)equal sets 
+
+__________________________________________
+__________________________________________
+
+30. The cosine of angle between the vectors ( i + j + k) and ( i - j - k) is 
+
+
+You Entered Correct answer : A)-1/3
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+31. lim x --> 0 (|x|/x)= 
+
+
+You Entered : A)1 
+
+Correct answer is : D)does not exist 
+
+__________________________________________
+__________________________________________
+
+32. If y = sinh-1x + cosh-1x, then dy/dx = 
+
+
+You Entered Correct answer : A)1/(sqrt (1 + x^2)) + 1/(sqrt (x^2 - 1))
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+33. The tangent to the curve x^2+ y^2 - 2x - 3 = 0 is parallel to x-axis of the point 
+
+
+You Entered : A)(1, 0) 
+
+Correct answer is : B)(1, +-2) 
+
+__________________________________________
+__________________________________________
+
+34. The minimum value of x^2+ 8x + 17 is 
+
+
+You Entered : A)-1 
+
+Correct answer is : D)1
+
+__________________________________________
+__________________________________________
+
+35. cot-1 tan pie/7 = 
+
+
+You Entered Correct answer : A)5 pie/14 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+36. If A is a square matrix, then A - A^T is a 
+
+
+You Entered : A)unit matrix 
+
+Correct answer is : C)skew symmetric matrix 
+
+__________________________________________
+__________________________________________
+
+37. Inverse of a function exists if the function is
+
+
+You Entered : A)injective 
+
+Correct answer is : C)bijective 
+
+__________________________________________
+__________________________________________
+
+38. Which of the following cannot be the direction cosines of a line? 
+
+
+You Entered : A)(12/13, -4/13, 3/13)
+
+Correct answer is : D)(1, -1, 1)
+
+__________________________________________
+__________________________________________
+
+39. The foot of the perpendicular from (alpha, beta, gamma) on y-axis is 
+
+
+You Entered : A)(alpha, 0, 0) 
+
+Correct answer is : B)(0, beta, 0) 
+
+__________________________________________
+__________________________________________
+
+40. If y = sin(1/x), then dy/dx = 
+
+
+You Entered : A)1/x cos(1/x)
+
+Correct answer is : D)- 1/x^2 cos(1/x)
+
+__________________________________________
+__________________________________________
+
+41. integrate (x+1/x)dx=
+
+
+You Entered : A)x^2 + log(x)+c 
+
+Correct answer is : C)x^2/2 + log(x)+c
+
+__________________________________________
+__________________________________________
+
+42. The area of the circle x^2+ y^2 = 2ax is 
+
+
+You Entered Correct answer : A)pie a^2
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+43. The equation x = t/4 and y = t^2/4 represents 
+
+
+You Entered : A)a circle 
+
+Correct answer is : B)a parabola 
+
+__________________________________________
+__________________________________________
+
+44. If a = 3 cm, b = 5 cm and c = 7 cm in triangle ABC, then the triangle is 
+
+
+You Entered : A)rt. angled triangle
+
+Correct answer is : D)obtuse angled triangle 
+
+__________________________________________
+__________________________________________
+
+45. The period of f(x) = tan3x + cos4x is 
+
+
+You Entered : A)pie /2
+
+Correct answer is : B)pie 
+
+__________________________________________
+__________________________________________
+
+46. If A, G, H denote respectively the A.M., G.M. and H.M. between two unequal positive integers, then
+
+
+You Entered : A)G^2= A/G
+
+Correct answer is : D)A = G^2/H
+
+__________________________________________
+__________________________________________
+
+47. The polar form of (1 - i) is 
+
+
+You Entered : A)2 (cos 135 degree + i sin 135 degree) 
+
+Correct answer is : C)2 [cos(-45 degree) + i sin (-45 degree)] 
+
+__________________________________________
+__________________________________________
+
+48. The middle term in the expansion of (y/x -x/y)^10 is
+
+
+You Entered : A)10c4(y/x)^2
+
+Correct answer is : D)-252
+
+__________________________________________
+__________________________________________
+
+49. The word 'deteriorate' has its primary stress on ... syllable. 
+
+
+You Entered : A)4th 
+
+Correct answer is : C)2nd 
+
+__________________________________________
+__________________________________________
+
+50. The correct phonemic transcription of the word 'restaurant' is 
+
+
+You Entered : A)/restjuːrent/
+
+Correct answer is : B)/restərənt/ 
+
+__________________________________________
+__________________________________________
+
+51. We hope that we shall win the match. 
+
+
+You Entered : A)The match is hoped to be won. 
+
+Correct answer is : D)It is hoped that the match will be won by us.
+
+__________________________________________
+__________________________________________
+
+52. The photographs in the papers bore no....at all to the original. 
+
+
+You Entered : A)nearness 
+
+Correct answer is : D)resemblance
+
+__________________________________________
+__________________________________________
+
+53. An abnormal dread of being shut up in a small room:
+
+
+You Entered Correct answer : A)claustrophobia 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+54. I absolve you ...... all blames. 
+
+
+You Entered : A)for 
+
+Correct answer is : C)of 
+
+__________________________________________
+__________________________________________
+
+55. ... book is expensive in the market 
+
+
+You Entered Correct answer : A)A 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+56. She ………. you if she were here. 
+
+
+You Entered : A)would have told 
+
+Correct answer is : C)would tell 
+
+__________________________________________
+__________________________________________
+
+57. The investigating officers went... several files after raiding the place. 
+
+
+You Entered : A)into 
+
+Correct answer is : D)through 
+
+__________________________________________
+__________________________________________
+
+58. None is available,......? 
+
+
+You Entered Correct answer : A)are they
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+59. One can..... these skills by one's own efforts. 
+
+
+You Entered : A)perform 
+
+Correct answer is : C)frame
+
+__________________________________________
+__________________________________________
+
+60. Synonym of THRIVE 
+
+
+You Entered : A)survive 
+
+Correct answer is : D)prosper
+
+__________________________________________
+__________________________________________
+
+61. CuSO4 solution is treated separately with KCl and KI. In which case Cu2+ will be reduced to Cu+
+
+
+You Entered : A)KCl 
+
+Correct answer is : B)KI 
+
+__________________________________________
+__________________________________________
+
+62. A hydrocarbon X adds on one mole of hydrogen to give another hydrocarbon and decolorized bromine water. X reacts with KMnO4 in presence of acid to give two moles of the same carboxylic acid. The structure of X is 
+
+
+You Entered : A)CH2 = CH - CH2 - CH2 - CH3 
+
+Correct answer is : C)CH3 - CH2 - CH = CH - CH2 - CH3 
+
+__________________________________________
+__________________________________________
+
+63. A pale yellow precipitate and a gas with pungent odour are formed on warming dilute HCl with an aqueous solution containing 
+
+
+You Entered : A)Sulphate ion 
+
+Correct answer is : C)Thiosulphate ion 
+
+__________________________________________
+__________________________________________
+
+64. 2.76 g of silver carbonate on being strongly heated yields a residue weighing: 
+
+
+You Entered Correct answer : A)2.16 g 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+65. The Ionic product of water at TK is 10–16. The pOH of the neutral solution at this temperature is 
+
+
+You Entered : A)7 
+
+Correct answer is : D)8 
+
+__________________________________________
+__________________________________________
+
+66. 100ml of 1NH2SO4 is required to dissolve 0.9 g of a metal. The equivalent weight of the metal is 
+
+
+You Entered Correct answer : A)9 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+67. Which of the following is not permissible? 
+
+
+You Entered : A)n = 4, l = 3, m = 0 
+
+Correct answer is : C)n = 4, l = 4, m = 1 
+
+__________________________________________
+__________________________________________
+
+68. A ball is thrown vertically upwards with a speed of 10 m/s from the top of a tower 200 m high and another is thrown vertically downwards with the same speed simultaneously. The time difference between them in reaching the ground (g = 10m/s^2) is x seconds. The value of x is 
+
+
+You Entered : A)1 
+
+Correct answer is : B)2 
+
+__________________________________________
+__________________________________________
+
+69. Calculate the force required to separate the glass plate of area 10-2 m^2 with a film of water 0.05 mm thick [surface tension of water is 70 × 10-3 N/m] 
+
+
+You Entered : A)25 N 
+
+Correct answer is : D)28 N 
+
+__________________________________________
+__________________________________________
+
+70. A block is placed over a plank. The coefficient of friction between the block and the plank is myu =0.2. Initially both are at rest, suddenly the plank starts moving with acceleration a0 = 4 m/s^2. The displacement of the block in 1s is (g=10 m/s^2) 
+
+
+You Entered Correct answer : A)1 m relative to ground 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+71. The frequency of a simple pendulum is n oscillations per minute while that of another is (n + 1) oscillations per minute. The ratio of length of first pendulum to the length of second is: 
+
+
+You Entered : A)n/(n + 1) 
+
+Correct answer is : D)(n + 1/n)^2
+
+__________________________________________
+__________________________________________
+
+72. Two cylinders A and B fitted with piston contain the equal amount of an ideal diatomic gas at 300K. The piston of A is free to move, while that of B is held fixed. The same amount of heat is given to the gas in each cylinder. If the rise in temperature of the gas in A is 30K, then the rise in the temperature of the gas in B is:
+
+
+You Entered : A)30 K 
+
+Correct answer is : D)42 K 
+
+__________________________________________
+__________________________________________
+
+73. A whistle revolves in a circle with angular speed omga(w)= 20 rad/s using a string of length 50 cm. If the frequency of sound from the whistle is 385 Hz,then what is the minimum frequency heard by an observer which is far away from the centre:– (vsound = 340 m/s) 
+
+
+You Entered : A)385 Hz 
+
+Correct answer is : B)374 Hz 
+
+__________________________________________
+__________________________________________
+
+74. A man running uniformly at 8 m/s is 16 m behind a bus when it starts accelerating at 2 m/s^2. Time taken by him to catch the bus is 
+
+
+You Entered : A)2s 
+
+Correct answer is : C)4s 
+
+__________________________________________
+__________________________________________
+
+75. A lead bullet strikes with velocity 500 m/s and fall dead. If 40% of energy is used to heat the bullet then rise in temperature will be (sp. heat capacity of lead = 0.03 cal/g degree C) 
+
+
+You Entered : A)125 degreeC 
+
+Correct answer is : C)396 degreeC 
+
+__________________________________________
+__________________________________________
+
+76. Intensity of gamma-radiation fall to one eight of it's value after passing through 27 mm of lead. The thickness of lead to reduce intensity to half is 
+
+
+You Entered : A)24 mm 
+
+Correct answer is : D)9 mm 
+
+__________________________________________
+__________________________________________
+
+77. A ray of light from a rarer medium strike a denser medium. The angle of reflection is r and that of refraction is r. The reflected and refracted rays make an angle of 90 degree with each other. The critical angle will be: 
+
+
+You Entered : A)sin-1 (tanr) 
+
+Correct answer is : C)sin-1 (cotr) 
+
+__________________________________________
+__________________________________________
+
+78. How many maxima can be obtained on the screen if wavelength of light used is 200 nm and to illuminate a slit of width 700 nm 
+
+
+You Entered : A)12 
+
+Correct answer is : B)7 
+
+__________________________________________
+__________________________________________
+
+79. When a certain metallic surface is illuminated with monochromatic light of wavelength lamda the stopping potential for photo electric current is 6V0. When the same surface is illuminated with light of wavelength 2 lamda, the stopping potential is 2V0. The threshold wavelength of this surface for photoelectric effect is 
+
+
+You Entered : A)6 lamda 
+
+Correct answer is : C)4 lamda 
+
+__________________________________________
+__________________________________________
+
+80. In a n-p-n transistor circuit, the collector current is 10 mA. If 90% of the electrons emitted reach the collector, the emitter current (IE) and base current (IB) are given by 
+
+
+You Entered : A)IE = 1mA; IB = 11 mA 
+
+Correct answer is : B)IE = 11 mA ; IB = 1 mA 
+
+__________________________________________
+__________________________________________
+
+81. When a hydrogen atom, initially at rest emits a photon resulting in transition n = 5 to n = 1, its recoil speed is about 
+
+
+You Entered : A)10-4 m/s 
+
+Correct answer is : B)2 × 10-2 m/s 
+
+__________________________________________
+__________________________________________
+
+82. The range of the function f(x) = |x - 2|/(x - 2) is 
+
+
+You Entered : A)R - {0} 
+
+Correct answer is : D){-1, 1} 
+
+__________________________________________
+__________________________________________
+
+83. If a, b, c are any three unit vectors with the relation a+ b+ c = 0, what is the angle between b and c?
+
+
+You Entered : A)pie/3
+
+Correct answer is : B)2 pie /3
+
+__________________________________________
+__________________________________________
+
+84. Integrate 1/cos x sqrt(cos 2x) = 
+
+
+You Entered : A)tan-1(sec x) + c 
+
+Correct answer is : D)sin-1(tan x) + c 
+
+__________________________________________
+__________________________________________
+
+85. Integrate |x| dx is equal to 
+
+
+You Entered : A)|x| + C 
+
+Correct answer is : D)x|x|^2+ C 
+
+__________________________________________
+__________________________________________
+
+86. The area bounded by the curve y = x^2, x-axis and the line x = 2^(1/3) is divided into two equal areas by the line x = k then the value of k is 
+
+
+You Entered : A)0 
+
+Correct answer is : B)1 
+
+__________________________________________
+__________________________________________
+
+87. If 3tan(θ – 15 degree) = tan(θ + 15 degree), then θ 
+
+
+You Entered : A)2n pie 
+
+Correct answer is : D)n pie + pie/4
+
+__________________________________________
+__________________________________________
+
+88. In a triangle ABC, cosA/2 = sqrt( b + c/2c) , then 
+
+
+You Entered Correct answer : A)a^2+ b^2= c^2
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+89. If |x| < 1, y = x + x^2+ x^3+ ... +infinity then x = 
+
+
+You Entered : A)(y + 1) 
+
+Correct answer is : B)y/1 + y 
+
+__________________________________________
+__________________________________________
+
+90. If the roots of the equation x^2+ ax + c = 0 differ by 1, then the condition is 
+
+
+You Entered : A)b^2= ac + 1 
+
+Correct answer is : B)a^2= 4c + 1 
+
+__________________________________________
+__________________________________________
+
+91. A box contains 2 white balls, 3 black balls and 4 red balls. The number of ways in which 3 balls can be brawn from the box so that of least one of the balls is black is 
+
+
+You Entered : A)9C3 
+
+Correct answer is : B)9C3 – 6C3 
+
+__________________________________________
+__________________________________________
+
+92. (1 - i)^3/1 - i3 =
+
+
+You Entered : A)1 
+
+Correct answer is : B)-2 
+
+__________________________________________
+__________________________________________
+
+93. If 2p is length of perpendicular from origin to line x/a+ y/b= 1, then 
+
+
+You Entered : A)a^2, 8p^2, b^2 are in A.P. 
+
+Correct answer is : C)a^2, 8p^2, b^2 are in H.P. 
+
+__________________________________________
+__________________________________________
+
+94. If a vertex of a triangle is (1, 1) and the middle point of sides through it are (-2, 3) and (5, 2) then the centroid of the triangle are 
+
+
+You Entered Correct answer : A)(5/3‚ 3)
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+95. The two circles x^2+ y^2– cx = 0 and x^2+ y^2= 4 touch each other if 
+
+
+You Entered : A)|c| = 4 
+
+Correct answer is : B)c = 2 
+
+__________________________________________
+__________________________________________
+
+96. The length of the intercept on y-axis cut off by the parabola y^2- 5y = 3x - 6 is 
+
+
+You Entered Correct answer : A)1 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+97. Turning themselves into mischievous and sometimes dangerous mobs' is closest in meaning to 
+
+
+You Entered Correct answer : A)becoming a crowd that may act violently and cause damage 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+98. The writer feels that student mobs should be treated 
+
+
+You Entered : A)more leniently than the mobs of industrial workers 
+
+Correct answer is : D) with contempt 
+
+__________________________________________
+__________________________________________
+
+99. If the students behave stupidly 
+
+
+You Entered Correct answer : A)they have no right to receive education in institutions maintained by public fund 
+
+You got 1 marks 
+
+__________________________________________
+__________________________________________
+
+100. Students in poorer countries should show a greater sense of responsibility because 
+
+
+You Entered : A)they have to compete with students in developed countries 
+
+Correct answer is : B)their education is paid for by poorer people 
+
+__________________________________________
+__________________________________________
+
